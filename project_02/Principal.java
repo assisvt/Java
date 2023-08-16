@@ -45,3 +45,7 @@ public class Principal {
 			System.out.println(listaPessoas.get(i).ra);
 			System.out.println(listaPessoas.get(i).idade);
 			
+		}
+	}
+
+}
