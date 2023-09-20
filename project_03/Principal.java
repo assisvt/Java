@@ -29,6 +29,7 @@ public class Principal {
 		f5.nrlados = 3;
 		
 		ArrayList<Figura> listaFiguras = new ArrayList<Figura>();
+		// Cria objeto Arraylist
 		
 		System.out.println("O tamanho da lista é:"
 				+ listaFiguras.size());
